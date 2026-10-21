@@ -1,4 +1,4 @@
-# Atividade 03 - Ordenação de dados em arquivos (C)
+# - Ordenação de dados em arquivos (C)
 
 Programa em C que grava números em um arquivo de texto, lê esses dados, ordena com o algoritmo escolhido pelo usuário e salva o resultado em outro arquivo.
 
